@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"citadelle.jeu"},{"l":"citadelle.joueur"},{"l":"citadelle.merveilles"},{"l":"citadelle.moteur"},{"l":"citadelle.personnage"}];updateSearchResults();
